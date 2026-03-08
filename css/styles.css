@@ -1407,6 +1407,16 @@ section {
   color: var(--color-primary);
 }
 
+.contact-hours .hours-item {
+  color: var(--color-dark);
+  border-bottom-color: rgba(47, 93, 80, 0.1);
+}
+
+.contact-hours .hours-item time {
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
 /* ----------------------------------------
    RESPONSIVE — TABLET (768px)
    ---------------------------------------- */
